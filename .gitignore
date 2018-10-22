@@ -1,7 +1,3 @@
-node_modules
-config.json
-bin
-/storage/
-config_*.json
-test.sqlite
-sessions/
+node_modules/
+/config.json
+todo.txt
